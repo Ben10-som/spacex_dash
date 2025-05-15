@@ -1,2 +1,1 @@
-web: gunicorn spacex_dash_app:app
-
+gunicorn app:app
